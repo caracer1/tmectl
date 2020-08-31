@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AllowBattery</key>
+    <false/>
+    <key>Backups</key>
+    <true/>
+    <key>BackupsMode</key>
+    <string>CalendarIntervals</string>
+    <key>CalendarIntervals</key>
+    <dict>
+        <key>ASAP</key>
+        <true/>
+        <key>Intervals</key>
+        <array>
+            <dict>
+                <key>Hour</key>
+                <integer>3</integer>
+                <key>Minute</key>
+                <integer>0</integer>
+            </dict>
+        </array>
+    </dict>
+    <key>DontRunWhenPassive</key>
+    <false/>
+    <key>DontRunWithSleepPreventers</key>
+    <false/>
+    <key>Interval</key>
+    <dict>
+        <key>Hours</key>
+        <integer>1</integer>
+    </dict>
+    <key>Snapshots</key>
+    <false/>
+    <key>Suspend</key>
+    <false/>
+    <key>SuspendSettings</key>
+    <dict>
+        <key>EndHour</key>
+        <integer>8</integer>
+        <key>EndMinute</key>
+        <integer>0</integer>
+        <key>StartHour</key>
+        <integer>23</integer>
+        <key>StartMinute</key>
+        <integer>0</integer>
+    </dict>
+    <key>WhenInactive</key>
+    <dict/>
+</dict>
+</plist>
