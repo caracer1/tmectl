@@ -19,6 +19,24 @@
                 <integer>_hour</integer>
                 <key>Minute</key>
                 <integer>_min</integer>
+                <key>Weekday</key>
+                <integer>_first</integer>
+            </dict>
+            <dict>
+                <key>Hour</key>
+                <integer>_hour</integer>
+                <key>Minute</key>
+                <integer>_min</integer>
+                <key>Weekday</key>
+                <integer>_second</integer>
+            </dict>
+            <dict>
+                <key>Hour</key>
+                <integer>_hour</integer>
+                <key>Minute</key>
+                <integer>_min</integer>
+                <key>Weekday</key>
+                <integer>_third</integer>
             </dict>
         </array>
     </dict>
