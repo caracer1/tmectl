@@ -16,9 +16,9 @@
         <array>
             <dict>
                 <key>Hour</key>
-                <integer>3</integer>
+                <integer>_hour</integer>
                 <key>Minute</key>
-                <integer>20</integer>
+                <integer>_min</integer>
             </dict>
         </array>
     </dict>
